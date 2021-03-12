@@ -1,0 +1,11 @@
+Diagnosis            Drugs Freq
+Schizophrenia            Y  105
+AffectiveDisorder        Y   12 
+Neurosis	         Y   18 
+PersonalityDisorder      Y   47 
+SpecialSymptoms          Y    0  
+Schizophrenia	         N    8  
+AffectiveDisorder        N    2  
+Neurosis	         N   19 
+PersonalityDisorder      N   52 
+SpecialSymptoms          N   13 

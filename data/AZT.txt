@@ -1,0 +1,9 @@
+"Symptoms" "AZTUse" "Race" "Freq"
+"1" "Yes" "Yes" "White" 14
+"2" "No" "Yes" "White" 93
+"3" "Yes" "No" "White" 32
+"4" "No" "No" "White" 81
+"5" "Yes" "Yes" "Black" 11
+"6" "No" "Yes" "Black" 52
+"7" "Yes" "No" "Black" 12
+"8" "No" "No" "Black" 43

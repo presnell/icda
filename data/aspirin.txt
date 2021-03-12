@@ -1,0 +1,5 @@
+Group   MI Freq
+Placebo Y  189 
+Placebo N  10845
+Aspirin Y  104
+Aspirin N  10933

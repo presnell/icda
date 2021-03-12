@@ -1,0 +1,10 @@
+  Income   Happiness Freq
+AboveAvg NotTooHappy   21
+     Avg NotTooHappy   53
+BelowAvg NotTooHappy   94
+AboveAvg PrettyHappy  159
+     Avg PrettyHappy  372
+BelowAvg PrettyHappy  249
+AboveAvg   VeryHappy  110
+     Avg   VeryHappy  221
+BelowAvg   VeryHappy   83

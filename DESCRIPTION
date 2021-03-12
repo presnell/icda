@@ -1,0 +1,13 @@
+Package: icda
+Type: Package
+Title: R Code for "An Introduction to Categorical Data Analysis"
+Version: 1.0
+Date: 2011-01-18
+Author: Brett Presnell
+Maintainer: Brett Presnell <presnell@stat.ufl.edu>
+Suggests: reshape2,VGAM,gee,MASS,lme4
+Description: Functions and datasets to accompany the book "An
+  Introduction to Categorical Data Analysis (2nd edn)" by Alan
+  Agresti.
+License: GPL (>=2)
+LazyLoad: yes

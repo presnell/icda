@@ -1,0 +1,9 @@
+DeathPenalty Defendant Victim Freq
+         Yes     White  White   53
+          No     White  White  414
+         Yes     Black  White   11
+          No     Black  White   37
+         Yes     White  Black    0
+          No     White  Black   16
+         Yes     Black  Black    4
+          No     Black  Black  139

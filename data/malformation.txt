@@ -1,0 +1,11 @@
+Alcohol Malformation  Freq
+    0.0      Present    48
+    0.0       Absent 17066
+    0.5      Present    38
+    0.5       Absent 14464
+    1.5      Present     5
+    1.5       Absent   788
+    4.0      Present     1
+    4.0       Absent   126
+    7.0      Present     1
+    7.0       Absent    37
