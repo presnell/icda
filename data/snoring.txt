@@ -1,0 +1,9 @@
+snoring     heartdisease Freq
+Never       Yes            24
+Occassional Yes            35
+Usually     Yes            21
+Always      Yes            30
+Never       No           1355
+Occassional No            603
+Usually     No            192
+Always      No            224
